@@ -45,18 +45,28 @@ Además, agregue la siguiente información a su archivo `README`:
 
 - ¿Hay alguna mejora que pueda hacer en su envío?
   <br/>
-  La verdad que si podria haber mejoras en un futuro pero estas se darian luego de mejorar el uso de html asi como de css para la maquetacion web
+  La verdad que si podria haber mejoras en un futuro pero estas se darian luego de mejorar el uso de html asi como de css para la maquetacion web. Ademas me gustaria agregar mas documentos html al proyecto en donde se profundice mas sobre los tipo de cursos que
+  ofrece la pagina, en donde se dé una explicacion detallada sobre los temas a abordar, requerimientos y el medio por el cual se iria a cursar ademas de agregar algunos videos cortos de youtube por medio de la etiqueta iframe para explicar brevemento los temas
+  <br/>
+  <br/>
 - ¿Qué haría de manera diferente si se le asignara más tiempo?
   <br/>
   Bueno, agregaria mas documentos a la pagina(como ejemplo un documento de un curso luego de haber presionado Ver Mas...), ya que sentia que le faltaba mas por desarrollar pero como lo hice con css puro y evite el uso de boostrap(solo lo use para iconos) me vi     
   ajetreado con que los elementos se ajustara con lo responsive y de hacer buena maquetacion, ademas de que me falta practicar mas css. Aunque tuve la fortuna de ayudarme con videos tutoriales y en el camino me encontre con paginas que me fueron de mucha ayuda por 
   ejemplo: https://uiverse.io/ (esta pagina ofrece una variedad de diseños ya sea de botones o cards). Otra cosa que haria distinto seria agregar mas animacion a la pagina ya que la siento como estatica pero ya seria con ayuda de javascript
-
   <br/>
   <br/>
-
-
-
+- En su trabajo, ¿cuál considera que fue lo más difícil de realizar?
+  <br/>
+  Al momento de iniciar con el proyecto, me habia decidido de mezclar boostrap con css puro pero tuve mil y un problemas para lograr que ambos se manejen con facilidad pero uno se interponian con otro, por lo que al final me decidi por solo integrar boostrap
+  en los iconos. Tambien me fue dificil de hacerlo responsive que con diferentes medidas de celular habia momentos en donde el contenido del container-main se desbordaba y no lograba que se mantuviera dentro pero me ayude con videos de Youtube.
+  <br/>
+  <br/>
+  
+- En las entregas, detectamos una gran variedad de temáticas únicas e interesantes. ¿Podría decirnos en qué se inspiró para realizar su página web? ¿Utilizó alguna página existente como referencia?
+   <br/>
+  A decir verdad, no me inspire en ninguna pagina para desarrollar el proyecto, no tuve el tiempo de pensarlo detenidamente, aunque el header y footer es algo que siempre vi como se desarroballa en algunas paginas que visito siempre. Solo me deje llevar al momento, quizas sí debí guiarme por alguna pagina para realizarlo tal vez me habria ayudado a desarrollar mas el contenido pero ya tenia como un poco claro que mi pagina ofreciera cursos pero creo que me quede corto
+  <br/>
 
 ## Detalles
 
